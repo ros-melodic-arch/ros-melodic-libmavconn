@@ -6,7 +6,7 @@ url='https://wiki.ros.org/libmavconn'
 pkgname='ros-melodic-libmavconn'
 pkgver='0.33.3'
 arch=('any')
-pkgrel=2
+pkgrel=1
 license=('GPLv3, LGPLv3, BSD')
 
 ros_makedepends=(ros-melodic-mavlink
